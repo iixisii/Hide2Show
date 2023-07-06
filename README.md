@@ -9,4 +9,4 @@ Simply add the **'HIDE2SHOW'** script to your OBS project<br>
 And identify the object that you want to toggle.<br>
 Use the appropriate command to hide or show the object<br>
 And **'HIDE2SHOW'** will take care of the rest.<br>
-[Learn more](https://obsproject.com/forum/resources/hide-show.1560/)
+[Learn more](https://youtube.com/playlist?list=PLQQuXJWni2zD0l8vvLjtzUL4jiWaSfYjy)
