@@ -2,7 +2,7 @@
 	⚪ Title: HIDE & SHOW
 	⚪ Version: v4
 	⚪ Date: 5.27.23
-	⚪ Author: iixiao
+	⚪ Author: iixisii
 	
 	Description: [
 		The script is designed to work with OBS (Open Broadcaster Software), which is commonly used for streaming and recording videos.
