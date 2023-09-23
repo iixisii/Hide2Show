@@ -536,7 +536,7 @@ function welcomeIndex()
 	return [[<center><h1 style = "color:#eee;padding:0;margin:0">HIDE & SHOW</h3><h5 style = 'color:#555'><i>V.4 - Made by iisxiao</i></h5></center>
 		
 		<center>
-			<p>You can learn more about this script <a href = 'https://obsproject.com/forum/resources/hide-show.1560/'>here</a> or watch a tutorial <a href = 'https://youtu.be/kZeTWPo_ay0'>video</a></p>
+			<p>You can learn more about this script <a href = 'https://github.com/iixisii/Hide2Show/releases/tag/v4.1.1'>here</a> or watch a tutorial <a href = 'https://youtu.be/kZeTWPo_ay0'>video</a></p>
 		</center>
 		<hr/>
 	]]
